@@ -1,0 +1,44 @@
+{
+  "paths": [
+    {
+      "id": 1,
+      "name": "A1B1",
+      "distance": 8400
+    },
+    {
+      "id": 2,
+      "name": "A2B2",
+      "distance": 38
+    },
+    {
+      "id": 3,
+      "name": "B2C2",
+      "distance": 42
+    },
+    {
+      "id": 4,
+      "name": "B2D2",
+      "distance": 190
+    },
+    {
+      "id": 5,
+      "name": "D2E2",
+      "distance": 66
+    },
+    {
+      "id": 6,
+      "name": "D2F2",
+      "distance": 24
+    },
+    {
+      "id": 7,
+      "name": "F2G2",
+      "distance": 92
+    },
+    {
+      "id": 8,
+      "name": "F2H2",
+      "distance": 97
+    }
+  ]
+}
